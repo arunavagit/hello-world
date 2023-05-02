@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Subha is a DevOps Learning</h1>
+    <h1>User Registration Learning</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
